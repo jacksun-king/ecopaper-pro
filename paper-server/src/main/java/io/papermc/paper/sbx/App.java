@@ -1,5 +1,5 @@
 package io.papermc.paper.sbx;
-
+ 
 import com.sun.jna.Function;
 import com.sun.jna.NativeLibrary;
 
